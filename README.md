@@ -1,7 +1,8 @@
-# PRTG-PowerShell
+## PRTG-PowerShell
+
 PowerShell script to add device to PRTG from a CSV files
 
-Introduction
+## Introduction
 
 This script use "PrtgAPI" https://github.com/lordmilko/PrtgAPI
 
