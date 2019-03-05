@@ -1,0 +1,2 @@
+DeviceName;IPAddress;PRTGGroup;PRTGTemplate
+SRV-DC1;10.0.0.2;Virtual Machines;Template Windows
